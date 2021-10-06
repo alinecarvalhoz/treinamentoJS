@@ -2,4 +2,4 @@
 
 ##
 
-Exercicíos simples para treinamento de JS
+Exercicíos simples para treinamento de JS.
